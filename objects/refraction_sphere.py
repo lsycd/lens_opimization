@@ -1,7 +1,6 @@
 from objects import refraction_surface
 
 
-class refraction_sphere(refraction_surface):
-    def __init__(s,c):
+class RefractionSphere(refraction_surface):
+    def __init__(self, c):
         pass
-    
